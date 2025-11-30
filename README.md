@@ -1,0 +1,3 @@
+ChatGPT said:
+
+This project is a sentiment and sarcasm analysis web application built primarily using Python (Flask for the web interface). It uses a dataset of headlines to detect sarcasm and sentiment, with preprocessing done through a vectorizer and scaler, and machine-learning models such as Logistic Regression (logistic_model.pkl) and a Decision Tree model (tree_model.pkl). The project includes a Flask app (app.py), HTML templates for the UI, and a Jupyter notebook (loaddata.ipynb) for data loading and model training. Overall, its purpose is to process user-entered text and classify whether the text is sarcastic or what sentiment it carries, demonstrating how machine learning can be integrated into a simple, interactive web-based interface.
